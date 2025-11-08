@@ -71,3 +71,6 @@ The author is not responsible for any misuse or consequences of using this scrip
 ## License
 
 MIT
+
+## Note
+Most of the code was reformatted using AI to be easier to maintain by each user.
