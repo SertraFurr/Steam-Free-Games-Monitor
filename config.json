@@ -1,0 +1,15 @@
+{
+    "DEBUG_MODE": false,
+    "post_data": {
+        
+        "discord_webhook": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+        "website_api_url": "YOUR_API_URL_HERE"
+    },
+
+    "webhook_data": {
+        "username": "Game Tracker",
+        "mention_everyone": true,
+        "mention_role_id": 123456789
+    
+    }
+}
